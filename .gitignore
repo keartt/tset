@@ -1,0 +1,14 @@
+/.metadata/
+.DS_Store
+
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+/EgovSpringMaven/.idea/
+
+# Eclipse
+.classpath
+.project
+/EgovSpringMaven/.settings/
+
